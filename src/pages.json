@@ -51,7 +51,7 @@
 		{
 			"path": "pages/drink/drink",
 			"style": {
-				"navigationBarTitleText": "菜单",
+				"navigationBarTitleText": "点餐",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
